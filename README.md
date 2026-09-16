@@ -46,13 +46,7 @@ Sou aluna do curso **Técnico Integrado em Informática** no Instituto Federal d
 
 ---
 
-### 📊 Estatísticas e Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rayssa-py&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
-
-<br>
+### 📊 Estatísticas e Contribuições
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Rayssa-py&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
