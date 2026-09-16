@@ -8,7 +8,7 @@ Estudante do curso **Técnico Integrado em Informática** no Instituto Federal d
 
 * 🌵 **Localização:** Ceará, Brasil
 * 🎓 **Formação:** Técnico em Informática — IFCE
-* 🎯 **Foco atual:** Desenvolvimento Web e lógica de programação
+* 🎯 **Foco atual:** Desenvolvimento Web, Python e lógica de programação
 * ⚡ **Curiosidades:** Gosto de correr 🏃‍♀️, conversar 🗣️, jogar 🎮 e sou fã da MARVEL 🦸‍♀️
 
 ---
@@ -33,7 +33,7 @@ Estudante do curso **Técnico Integrado em Informática** no Instituto Federal d
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayssa-py&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rayssa-py&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -42,8 +42,9 @@ Estudante do curso **Técnico Integrado em Informática** no Instituto Federal d
 
 | Projeto Central | Descrição | Link do Repositório |
 | :--- | :--- | :--- |
-| 🌐 **Atividades-Exercicios-WEB** | Central com trabalhos e atividades práticas | [Acessar Repositório](https://github.com/Rayssa-py/Atividades-Exercicios-WEB) |
-| 💻 **Exercicios-Web** | Exercícios e treinos práticos de código | [Acessar Repositório](https://github.com/Rayssa-py/Exercicios-Web) |
+| 🌐 **Atividades-Exercicios-WEB** | Central com trabalhos e atividades de HTML/CSS | [Acessar Repositório](https://github.com/Rayssa-py/Atividades-Exercicios-WEB) |
+| 💻 **Exercicios-Web** | Exercícios e treinos práticos de código Web | [Acessar Repositório](https://github.com/Rayssa-py/Exercicios-Web) |
+| 🐍 **Estudos-Python** | Algoritmos e tarefas desenvolvidas em Python | [Acessar Repositório](https://github.com/Rayssa-py/Estudos-Python) |
 
 ---
 
