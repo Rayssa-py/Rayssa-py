@@ -26,14 +26,13 @@ Estudante do curso **Técnico Integrado em Informática** no Instituto Federal d
 ### 📊 Contribuições & Estatísticas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rayssa-py&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayssa-py&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Rayssa-py&theme=radical&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rayssa-py&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayssa-py&theme=react-dark&hide_border=true" />
 </div>
 
 ---
