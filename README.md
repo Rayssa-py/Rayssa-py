@@ -1,13 +1,53 @@
-<h1 align="center">Olá 👋, sou Rayssa</h1>
-<h3 align="center">Sou uma aluna do técnico integrado em informática do IFCE, natural do Ceará e pretendo seguir na área de Desenvolvedor de Software.</h3>
+# 👋 Olá, eu sou a Rayssa!
 
-- 🌱 Atualmente estou aprendendo **Informática**
+Estudante do curso **Técnico Integrado em Informática** no Instituto Federal do Ceará (IFCE), apaixonada por tecnologia e em jornada para me tornar **Desenvolvedora de Software**! 🚀
 
-- 📫 Como entrar em contato comigo **rayssa.emelly09@aluno.ifce.edu.br**
+---
 
-- 📄 Conheça minhas experiências [https://lattes.cnpq.br/5100498858726267](https://lattes.cnpq.br/5100498858726267)
+### 📌 Sobre Mim
 
-- ⚡ Curiosidade **Gosto de correr, conversar, jogar, e da MARVEL.**
+* 🌵 **Localização:** Ceará, Brasil
+* 🎓 **Formação:** Técnico em Informática — IFCE
+* 🎯 **Foco atual:** Desenvolvimento Web e lógica de programação
+* ⚡ **Curiosidades:** Gosto de correr 🏃‍♀️, conversar 🗣️, jogar 🎮 e sou fã da MARVEL 🦸‍♀️
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📊 Contribuições & Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rayssa-py&show_icons=true&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayssa-py&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayssa-py&theme=radical&hide_border=true" />
+</div>
+
+---
+
+### 📂 Meus Projetos e Estudos
+
+| Projeto Central | Descrição | Link do Repositório |
+| :--- | :--- | :--- |
+| 🌐 **Atividades-Exercicios-WEB** | Central com trabalhos e atividades práticas | [Acessar Repositório](https://github.com/Rayssa-py/Atividades-Exercicios-WEB) |
+| 💻 **Exercicios-Web** | Exercícios e treinos práticos de código | [Acessar Repositório](https://github.com/Rayssa-py/Exercicios-Web) |
+
+---
+
+### 📫 Contato e Redes
+
+* 📄 **Currículo Lattes:** [Acessar Plataforma Lattes](https://lattes.cnpq.br/5100498858726267)
+* 📧 **E-mail:** [rayssa.emelly09@aluno.ifce.edu.br](mailto:rayssa.emelly09@aluno.ifce.edu.br)
