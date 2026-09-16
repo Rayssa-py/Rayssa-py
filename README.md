@@ -23,16 +23,11 @@ Estudante do curso **Técnico Integrado em Informática** no Instituto Federal d
 
 ---
 
-### 📊 Contribuições & Estatísticas
+### 📊 Histórico de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rayssa-py&theme=radical&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayssa-py&theme=react-dark&hide_border=true" />
+  <p>Meu mapa de commits no GitHub:</p>
+  <img src="https://ghchart.rshah.org/8a2be2/Rayssa-py" alt="Gráfico de Contribuições" />
 </div>
 
 ---
