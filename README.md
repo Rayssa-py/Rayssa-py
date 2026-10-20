@@ -12,7 +12,7 @@
 
 ### 🙋‍♀️ Sobre Mim
 
-Sou estudante do curso **Técnico Integrado em Informática** no Instituto Federal do Ceará (IFCE) e **pesquisadora bolsista/voluntária pelo PIBIC Jr no Laboratório LEIAH**. Dedico minha trajetória acadêmica e prática ao desenvolvimento de software, à lógica de programação e ao uso da tecnologia como ferramenta de **inclusão e impacto social**.
+Sou estudante do curso **Técnico Integrado em Informática** no Instituto Federal do Ceará (IFCE) e **pesquisadora bolsista pelo PIBIC Jr no Laboratório LEIAH**. Dedico minha trajetória acadêmica e prática ao desenvolvimento de software, à lógica de programação e ao uso da tecnologia como ferramenta de **inclusão e impacto social**.
 
 - 🔬 **Iniciação Científica:** Pesquisadora no **LEIAH** (Laboratório de Ensino, Inovação e Acessibilidade do IFCE) via **PIBIC Jr**, aplicando tecnologia no desenvolvimento de soluções acessíveis.
 - 🎯 **Foco de Atuação:** Desenvolvimento Web, Programação Orientada a Objetos (Java & C++), Algoritmos em Python e Tecnologia Assistiva.
